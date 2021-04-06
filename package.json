@@ -22,7 +22,8 @@
   },
   "homepage": "https://github.com/Rufasa85/deep-thoughts#readme",
   "dependencies": {
-    "if-env": "^1.0.4"
+    "if-env": "^1.0.4",
+    "react-router-dom": "^5.2.0"
   },
   "devDependencies": {
     "concurrently": "^6.0.0"
